@@ -6,6 +6,8 @@ SDK but aren't.
 If you think something in this library is already handled in a better way
 by Android please open an [issue](https://github.com/kevinsawicki/wishlist/issues).
 
+非常牛逼啊，呵呵
+
 This library is available from [Maven Central](http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22com.github.kevinsawicki%22%20AND%20a%3A%22wishlist%22):
 
 ```xml
